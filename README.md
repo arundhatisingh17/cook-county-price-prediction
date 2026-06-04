@@ -1,4 +1,5 @@
 # Cook County Residential Sale Price Prediction
+
 ## Benchmarking GUIDE Trees Against CART and Ensemble Methods
 
 ### Overview

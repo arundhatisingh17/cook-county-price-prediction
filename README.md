@@ -100,8 +100,7 @@ procedure, providing importance scores that better reflect true predictive signa
 ---
 
 ### Report
-The full 30-page report is available in `/report/Stat443_Report.pdf`, covering 
-all modeling decisions, comparisons, and visual diagnostics in detail.
+The full 30-page report is available [here](https://github.com/arundhatisingh17/cook-county-price-prediction/blob/main/Stat443_Report.pdf).
 
 ---
 
